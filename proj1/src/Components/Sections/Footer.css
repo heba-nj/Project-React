@@ -1,0 +1,24 @@
+.foo {
+    text-align: center;
+    color: var(--color-light);
+    padding: 30px 0;
+    font-size: 15px;
+    line-height: 0.9rem;
+}
+.foo p  {
+    color: var(--color-light);
+}
+.foo a {
+    color: var(--color-light);
+}
+.foo p a  {
+    transition: all .3s;
+    color: var(--color-light);
+}
+.foo p a:hover {
+    color: var(--color-primary);
+}
+::selection {
+    color: var(--color-light);
+    background-color: var(--color-primary);
+}

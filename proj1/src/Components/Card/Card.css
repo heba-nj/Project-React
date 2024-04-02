@@ -1,0 +1,22 @@
+.most-pop-item {
+    flex: 1 25%;
+}
+.card-wrapper {
+    background-color: var(--color-dark);
+    border-radius: 19px;
+    padding: 30px 15px;
+    margin: 10px;
+}
+.most-pop-img {
+    width: 100%;
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+.most-pop-content {
+    display: flex;
+    justify-content: space-between;
+}
+.most-pop-title {
+    font-size: 14px;
+    line-height: 1.5rem;
+}

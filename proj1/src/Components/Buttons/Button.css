@@ -1,0 +1,22 @@
+.button a {
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 40px;
+}
+.main-btn a {
+    background-color: var(--color-primary);
+    color: var(--color-light);
+}
+.main-btn a:hover {
+    background-color: var(--color-light);
+    color: var(--color-primary);
+    transition: all .3s;
+}
+.sec-btn a {
+    background-color: var(--color-light);
+    color: black;
+}
+.sec-btn a:hover {
+    background-color: black;
+    color: var(--color-light);
+}

@@ -1,0 +1,6 @@
+.main-con {
+    padding: 50px;
+    background-color: var(--color-dark);
+    border-radius: 25px;
+    color: var(--color-light);
+}

@@ -1,0 +1,9 @@
+.nan li a:hover {
+    color: var(--color-primary);
+}
+.nan li:first-child a {
+    color: var(--color-primary);
+}
+.con {
+    padding: 20px;
+}
